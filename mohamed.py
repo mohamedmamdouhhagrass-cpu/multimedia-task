@@ -1,3 +1,4 @@
+# mohamed mamdouh mohamed المجموعه الاولي عملي3
 from tkinter import *
 import webbrowser
 root=Tk()
@@ -13,3 +14,4 @@ btn1.grid(column=2 ,row=1)
 btn1.grid(column=2 ,row=2)
 
 root.mainloop()
+
